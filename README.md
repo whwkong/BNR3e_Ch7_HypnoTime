@@ -1,5 +1,8 @@
 #BNR3e\_Ch7\_HypnoTime
+<<<<<<< HEAD
 ====================
+=======
+>>>>>>> added .gitignore
 
 Big Nerd Ranch's iOS Programming 3rd ed, Hillegass & Conway
 HypnoTime app
