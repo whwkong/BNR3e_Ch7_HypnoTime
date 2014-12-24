@@ -1,0 +1,4 @@
+#ignore custom user data
+HypnoTime/HypnoTime.xcodeproj/project.xcworkspace
+HypnoTime/HypnoTime.xcodeproj/xcuserdata
+
